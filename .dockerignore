@@ -1,0 +1,7 @@
+node_modules
+.nuxt
+.output
+.git
+.idea
+.claude
+*.md

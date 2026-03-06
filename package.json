@@ -1,0 +1,23 @@
+{
+  "name": "QR-Code-Generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.21.1",
+    "qrcode": "^1.5.4",
+    "vue": "^3.5.29",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/qrcode": "^1.5.6",
+    "tailwindcss": "^4.2.1"
+  }
+}
